@@ -1,0 +1,51 @@
+.wrapper{
+    max-width: 1060px;
+    margin: 0 auto;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+}
+.choose{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h1{
+    margin-right: 20px;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.confirm{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#choosen{
+    width: 70px;
+    height: 70px;
+}
+.set-button{
+    margin-top: 10px;
+    padding: 10px 10px;
+    border: 0;
+    background-color: aqua;
+}
+
+.hh{
+    height: 10px;
+    width: 10px;
+}
+#cat{
+    height: 100px;
+    width: 150px;
+    transition: 0.2s;
+}
